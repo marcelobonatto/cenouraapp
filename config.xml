@@ -18,4 +18,6 @@
     <preference name="permissions" value="none" />
     <preference name="android-minSdkVersion" value="16" />
     <gap:platform name="android" />
+    <icon src="icon.png" />
+    <gap:splash src="splash.png" />
 </widget>
